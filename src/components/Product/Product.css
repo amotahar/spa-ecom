@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+   
+}
+
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.btn-regluar{
+ background-color: goldenrod;
+ cursor: pointer;
+ border: 1px solid lightgrey;
+ width: 130px;
+ height: 25px;
+ border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ -ms-border-radius: 5px;
+ -o-border-radius: 5px;
+}
+
+.icon-color{
+    color: gold;
+}
